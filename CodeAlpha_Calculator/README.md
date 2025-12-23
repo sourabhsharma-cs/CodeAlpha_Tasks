@@ -40,8 +40,8 @@ This project is developed as part of the CodeAlpha C Programming Internship.
 
 ---
 
-👨‍💻Author
-Sourabh SharmA
+ 👨‍💻Author
+Sourabh Sharma
 CSE Student
 GitHub: [https://github.com/sourabhsharma-cs](https://github.com/sourabhsharma-cs)
 
