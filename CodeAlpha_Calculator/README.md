@@ -41,11 +41,12 @@ This project is developed as part of the CodeAlpha C Programming Internship.
 ---
 
  👨‍💻Author
-Sourabh Sharma
-CSE Student
-GitHub: [https://github.com/sourabhsharma-cs](https://github.com/sourabhsharma-cs)
+* Sourabh Sharma
+* CSE Student
+* GitHub: [https://github.com/sourabhsharma-cs](https://github.com/sourabhsharma-cs)
 
 ---
 
  📜 Internship
-This project is submitted for the CodeAlpha C Programming Internship.
+
+* This project is submitted for the CodeAlpha C Programming Internship.
