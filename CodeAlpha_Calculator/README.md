@@ -4,8 +4,8 @@
 
 📝 Description
 
-This is a simple calculator program written in C** that performs basic arithmetic operations such as Addition, Subtraction, Multiplication, and Division**.
-The program uses a switch-case statement for operation selection and includes basic error handling** for division by zero.
+This is a simple calculator program written in C** that performs basic arithmetic operations such as Addition, Subtraction, Multiplication, and Division.
+The program uses a switch-case statement for operation selection and includes basic error handling for division by zero.
 
 This project is developed as part of the CodeAlpha C Programming Internship.
 
@@ -41,7 +41,7 @@ This project is developed as part of the CodeAlpha C Programming Internship.
 ---
 
 👨‍💻Author
-Sourabh Sharma
+Sourabh SharmA
 CSE Student
 GitHub: [https://github.com/sourabhsharma-cs](https://github.com/sourabhsharma-cs)
 
