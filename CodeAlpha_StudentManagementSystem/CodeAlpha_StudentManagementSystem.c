@@ -102,7 +102,7 @@ void searchStudent() {
             printf("\nRecord Found!\n");
             printf("Roll  : %d\n", s.roll);
             printf("Name  : %s\n", s.name);
-            printf("Marks : %.2f\n", s.marks);
+            printf("Marks : %f\n", s.marks);
             found = 1;
             break;
         }
